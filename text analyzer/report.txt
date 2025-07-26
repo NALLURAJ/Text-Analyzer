@@ -1,0 +1,25 @@
+Cleaned Paragraph:
+ h h hi hi  
+
+Word Frequencies: 
+h:2
+hi:2
+Cleaned Paragraph:
+ hi hi
+
+Word Frequencies: 
+hi:2
+Cleaned Paragraph:
+  CUsersmukesAppDataLocalProgramsPythonPython313pythonexe cUsersmukesDesktopNalluraj VS CodeJuly28text analyzertextAnalyzerpy
+
+Word Frequencies: 
+CUsersmukesAppDataLocalProgramsPythonPython313pythonexe:1
+cUsersmukesDesktopNalluraj:1
+VS:1
+CodeJuly28text:1
+analyzertextAnalyzerpy:1
+Cleaned Paragraph:
+ hi hi
+
+Word Frequencies: 
+hi:2
